@@ -3,7 +3,7 @@
   "editor.quickSuggestions": { "other": false, "comments": false, "strings": false },
   "editor.suggestOnTriggerCharacters": false,
   "editor.parameterHints.enabled": false,
-  "editor.hover.enabled": false,
+  "editor.hover.enabled": "off",
   "github.copilot.enable": {
     "*": false,
     "plaintext": false,
